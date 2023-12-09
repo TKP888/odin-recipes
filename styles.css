@@ -1,0 +1,45 @@
+
+
+
+
+
+body, p {
+    background-color: darkslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    color: white;
+
+}
+
+h1, h2, h3{
+    font-weight: bolder;
+    font-size: 42px;
+    color: orange;
+}
+
+
+
+h2 {
+    font-size: 36px;
+    text-align: auto;
+}
+
+h3 {
+    font-size: 32px;
+    text-align: auto;
+}
+
+strong {
+    color: orange;
+}
+
+ol, ul {
+    text-align: left;
+    color: white;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
