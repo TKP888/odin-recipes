@@ -43,3 +43,12 @@ img {
     width: 500px;
     height: auto;
 }
+
+
+.menu-bar {
+    background-color: darkblue;
+    display: inline-block;
+    border: 2px black dotted;
+    padding: 20px;
+    text-align: center;
+}
